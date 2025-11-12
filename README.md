@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there! I'm Clover34 👋
+🎮 Game Developer | 🧠 C# & Unity 
+- 💡 Working on several Unity projects
+- 🧰 Tech: Unity, C#, Mirror
+- 🚀 Open to collaborations or small freelance projects
 <!--
 **Clover34Dev/Clover34Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
